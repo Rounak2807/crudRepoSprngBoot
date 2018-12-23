@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Employee_Management
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rounak
+Implementation-Vendor-Id: com.quest.employeemangement
+Build-Jdk: 1.8.0_51
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Employee_Management
+Created-By: Maven Integration for Eclipse
+
